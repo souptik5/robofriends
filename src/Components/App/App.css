@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+.name {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    color: aliceblue;
+}
